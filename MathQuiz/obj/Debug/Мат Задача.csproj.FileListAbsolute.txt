@@ -1,0 +1,22 @@
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\bin\Debug\Мат Задача.exe.config
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\bin\Debug\Мат Задача.exe
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\bin\Debug\Мат Задача.pdb
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат Задача.csproj.AssemblyReference.cache
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат Задача.csproj.SuggestedBindingRedirects.cache
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат_Задача.Form1.resources
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат_Задача.Properties.Resources.resources
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат Задача.csproj.GenerateResource.cache
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат Задача.csproj.CoreCompileInputs.cache
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат Задача.exe
+C:\Users\79014\Desktop\Lada\МДК2\Мат Задача\obj\Debug\Мат Задача.pdb
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\bin\Debug\Мат Задача.exe.config
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\bin\Debug\Мат Задача.exe
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\bin\Debug\Мат Задача.pdb
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат Задача.csproj.AssemblyReference.cache
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат Задача.csproj.SuggestedBindingRedirects.cache
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат_Задача.Form1.resources
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат_Задача.Properties.Resources.resources
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат Задача.csproj.GenerateResource.cache
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат Задача.csproj.CoreCompileInputs.cache
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат Задача.exe
+C:\Users\79014\Desktop\Lada\МДК2\MathQuiz\obj\Debug\Мат Задача.pdb
